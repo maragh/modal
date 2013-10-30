@@ -8,4 +8,6 @@ if($connect){
 	mysql_select_db($config['dbname'])
 	                or die (mysql_error()." SELECTED DBNAME FAIL");
 }
+
 ?>
+

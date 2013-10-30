@@ -40,7 +40,8 @@ if(isset($_POST['submit'])){
         </title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <!-- Bootstrap -->
-        <link href="css/bootstrap.min.css" rel="stylesheet" media="screen" type="text/css">
+        <!-- <link href="css/bootstrap.min.css" rel="stylesheet" media="screen" type="text/css"> -->
+        <link href="css/bootstrap-responsive.css" rel="stylesheet" media="screen" type="text/css">
     </head>
     <body>
         <!-- Button to trigger modal -->
@@ -74,4 +75,8 @@ if(isset($_POST['submit'])){
 <script src="http://code.jquery.com/jquery.js" type="text/javascript"></script> 
 <script src="js/bootstrap.min.js" type="text/javascript"></script>
     </body>
+
+
+
 </html>
+<script type="text/javascript">window.jQuery || document.write('<script type="text/javascript" src="js/jquery191.js"><\/script>')</script> 
